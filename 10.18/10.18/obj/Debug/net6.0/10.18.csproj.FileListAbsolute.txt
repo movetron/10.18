@@ -1,0 +1,15 @@
+A:\МДК 01.01\base_alg\10.18\10.18\bin\Debug\net6.0\10.18.exe
+A:\МДК 01.01\base_alg\10.18\10.18\bin\Debug\net6.0\10.18.deps.json
+A:\МДК 01.01\base_alg\10.18\10.18\bin\Debug\net6.0\10.18.runtimeconfig.json
+A:\МДК 01.01\base_alg\10.18\10.18\bin\Debug\net6.0\10.18.dll
+A:\МДК 01.01\base_alg\10.18\10.18\bin\Debug\net6.0\10.18.pdb
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.csproj.AssemblyReference.cache
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.GeneratedMSBuildEditorConfig.editorconfig
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.AssemblyInfoInputs.cache
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.AssemblyInfo.cs
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.csproj.CoreCompileInputs.cache
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.dll
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\refint\10.18.dll
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.pdb
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\10.18.genruntimeconfig.cache
+A:\МДК 01.01\base_alg\10.18\10.18\obj\Debug\net6.0\ref\10.18.dll
